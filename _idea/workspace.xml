@@ -46,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-16&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/文档/Codes/OJ&quot;,
+    &quot;last_opened_file_path&quot;: &quot;ShengSai2023.D:/文档/Codes/OJ&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Guosai2022.B" />
+    <configuration name="ShengSai2023.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guosai2022.ShengSai2023.B" />
       <module name="Lanqiao" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Guosai2022.D" />
+    <configuration name="ShengSai2023.D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guosai2022.ShengSai2023.D" />
       <module name="Lanqiao" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Guosai2022.E" />
+    <configuration name="ShengSai2023.E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guosai2022.ShengSai2023.E" />
       <module name="Lanqiao" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Guosai2022.F" />
+    <configuration name="ShengSai2023.F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guosai2022.ShengSai2023.F" />
       <module name="Lanqiao" />
       <extension name="coverage">
         <pattern>
@@ -520,19 +520,19 @@
     <list>
       <item itemvalue="Application.APP" />
       <item itemvalue="Application.根据二叉树创建字符串" />
-      <item itemvalue="Application.B" />
-      <item itemvalue="Application.D" />
-      <item itemvalue="Application.E" />
-      <item itemvalue="Application.F" />
+      <item itemvalue="Application.ShengSai2023.B" />
+      <item itemvalue="Application.ShengSai2023.D" />
+      <item itemvalue="Application.ShengSai2023.E" />
+      <item itemvalue="Application.ShengSai2023.F" />
       <item itemvalue="Application.F2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.F2" />
-        <item itemvalue="Application.D" />
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.E" />
-        <item itemvalue="Application.F" />
+        <item itemvalue="Application.ShengSai2023.D" />
+        <item itemvalue="Application.ShengSai2023.B" />
+        <item itemvalue="Application.ShengSai2023.E" />
+        <item itemvalue="Application.ShengSai2023.F" />
       </list>
     </recent_temporary>
   </component>
